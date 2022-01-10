@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Minh Hieu",
+      "phone": "0394376651",
+      "address": "Hà Nội",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "bill": [
+    {
+      "id": 1,
+      "name": "Mh",
+      "phone": "111234234",
+      "address": "Hà Nội",
+      "email": "user@gmail.com"
+    },
+    {
+      "name": "Minh Hieu",
+      "phone": "0394376651",
+      "address": "Hà Nội",
+      "email": "sindresorhus@gmail.com",
+      "id": 2
+    }
+  ]
+}
